@@ -42,7 +42,7 @@ Assets/Scenes/ComponentsDemo - הסצנה הראשית
 
 ## קישורים
 
-משחק: 
+משחק: https://davidstern135.itch.io/assignment2-part1
 קוד: https://github.com/GameDevCS/Assignment_2Part1
 
 ---
